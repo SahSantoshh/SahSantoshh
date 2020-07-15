@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on ReactJs
 - 🤔 I’m looking for help with ReackJs
 - 💬 Ask me about Rails, Flutter or any tech questions.
-- 📫 How to reach me: Facebook: SahSantoshh, Skype: santoshprasadsah
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Be Natural
 
