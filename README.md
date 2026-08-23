@@ -56,23 +56,6 @@ Building products from idea → design → code → release.
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=sahsantoshh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsantoshh&layout=compact&langs_count=8&hide_border=true"
-/>
-
-</div>
 
 ---
 
