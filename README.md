@@ -1,54 +1,93 @@
+<div align="center">
+
 # 👋 Hi, I'm Santosh Sah
 
-Software developer passionate about building useful products and turning ideas into polished applications.
+**Senior Software Engineer · Rails · Flutter · Product Builder**
 
-Currently working across **Flutter**, **Ruby/Rails**, APIs, and modern web technologies.
+I build production software, side projects, and useful products with a focus on
+**clean architecture, performance, and great user experiences.**
 
-- 📱 Building mobile apps with Flutter
-- 💎 Working with Ruby, Rails and backend systems
-- 🚀 Interested in product development, UI/UX and developer tools
-- 💰 Building **Kharchha**, a personal finance and expense-tracking app
-- 🌏 Based in Nepal
+<br/>
 
-## 🛠️ Technologies & Tools
+<a href="https://sahsantoshh.com/">
+  <img src="https://img.shields.io/badge/🌐_sahsantoshh.com-Visit%20my%20website-181717?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/sahsantoshh">
+  <img src="https://img.shields.io/badge/GitHub-@sahsantoshh-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Mobile & Frontend**
+</div>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+---
 
-**Backend**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
+## 🚀 What I Build
 
-**Tools**
+**💎 Rails applications**  
+APIs, background jobs, PostgreSQL, performance & scalable systems.
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+**📱 Flutter apps**  
+Cross-platform experiences from backend to mobile UI.
 
-## 📊 GitHub Stats
+**🛠️ Side projects**  
+Building products from idea → design → code → release.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧰 Toolbox
+
+<a href="https://sahsantoshh.com/">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,flutter,dart,postgres,docker,git,github" />
+</a>
+
+<br/><br/>
+
+`Hotwire` · `RSpec` · `Redis` · `Kamal`
+
+**→ [Explore my full stack](https://sahsantoshh.com/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sahsantoshh&show_icons=true&count_private=true&include_all_commits=true"
-  height="165"
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=sahsantoshh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsantoshh&layout=compact&langs_count=10"
-  height="165"
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsantoshh&layout=compact&langs_count=8&hide_border=true"
 />
 
-## 🌱 Currently Exploring
+</div>
 
-- Building better Flutter applications
-- Scalable Rails APIs
-- UI/UX and product design
-- Developer productivity tools
+---
 
-## 🤝 Let's Connect
+<div align="center">
 
-Feel free to explore my repositories or connect with me on GitHub!
+### 🌐 Beyond GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sahsantoshh)
+I share my **projects, open-source work, experience, and writing** on
+
+## 👉 [sahsantoshh.com](https://sahsantoshh.com/)
+
+<sub>Explore projects · Open source · Blog · Experience</sub>
+
+<br/><br/>
+
+**↓ Featured repositories ↓**
+
+</div>
